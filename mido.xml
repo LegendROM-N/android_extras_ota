@@ -8,7 +8,7 @@
   <Android>7.1.2</Android>
   <CheckMD5>efb4d0c57d7e9ce3405aa2c7b5effcc1</CheckMD5>
   <FileSize type="integer">680630681.6</FileSize>
-  <Developer nil="true" />
+  <Developer>Arjun Sunil</Developer>  
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
   <Changelog>
@@ -45,6 +45,6 @@
   ->Added About LegendROM Team in about phone
   ->Added LegendROM Banner
   ->Pixel-ify Expanded Desktop
-  ->Added Default MTP on USB plugin toggle
+  ->Added Default MTP on plug toggle
   </Changelog>
 </ROM>
