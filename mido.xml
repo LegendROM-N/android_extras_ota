@@ -7,7 +7,7 @@
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
   <CheckMD5>efb4d0c57d7e9ce3405aa2c7b5effcc1</CheckMD5>
-  <FileSize type="integer">680630681.6</FileSize>
+  <FileSize type="integer">680630681</FileSize>
   <Developer>Arjun Sunil</Developer>  
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
@@ -29,7 +29,6 @@
   ->Updated Gboard to 6.4.16.162469584
   ->Updated Google Wallpaper to 1.1.153125266
 
-    
   Buttons Misc:-
   ->Added Pocket Judge
   ->Added Accidental Touch
