@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_mido</RomName>
-  <VersionName>LegendROM-N-v18.0-20170812-mido</VersionName>
+  <VersionName>LegendROM-N-v18.0-20170813-mido</VersionName>
   <VersionNumber type="integer">20170813</VersionNumber>
   <DirectUrl>https://qc3.androidfilehost.com/dl/Kk2vzYEOf1ElKLN-ahDYbA/1502791745/961840155545588355/LegendROM-N-v18.0-20170812-mido-Official.zip?</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
   <CheckMD5>efb4d0c57d7e9ce3405aa2c7b5effcc1</CheckMD5>
-  <FileSize type="integer">649.1</FileSize>
+  <FileSize type="integer">649100</FileSize>
   <Developer nil="true" />
   <WebsiteURL nil="true" />
   <DonateURL nil="true" />
