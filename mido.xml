@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>LegendROM_mido</RomName>
+  <VersionName></VersionName>
+  <VersionNumber type="integer"></VersionNumber>
+  <DirectUrl></DirectUrl>
+  <HttpUrl nil="true" />
+  <Android>7.1.2</Android>
+  <CheckMD5 nil="true" />
+  <FileSize type="integer"></FileSize>
+  <Developer nil="true" />
+  <WebsiteURL nil="true" />
+  <DonateURL nil="true" />
+  <Changelog></Changelog>
+</ROM>
