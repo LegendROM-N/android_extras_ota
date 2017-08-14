@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_oneplus2</RomName>
-  <VersionName></VersionName>
-  <VersionNumber type="integer"></VersionNumber>
-  <DirectUrl></DirectUrl>
+  <VersionName>LegendROM-N-v18.0-20170814-oneplus2-Official</VersionName>
+  <VersionNumber type="integer">20170814</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/1jAJkA92fNZXTcdTa0Mg9w/1502949079/961840155545588741/LegendROM-N-v18.0-20170814-oneplus2-Official.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5 nil="true" />
-  <FileSize type="integer"></FileSize>
-  <Developer nil="true" />
+  <CheckMD5>dbb4d3a01ee4cac1b1560b892d7ee884</CheckMD5>
+  <FileSize type="integer">615199539</FileSize>
+  <Developer>Pranav Thombare</Developer>
   <WebsiteURL nil="true" />
-  <DonateURL nil="true" />
-  <Changelog></Changelog>
+  <DonateURL>https://paypal.me/PranavThombare</DonateURL>
+  <Changelog>
+  ->Merged Android-7.1.2_r29
+  ->Merged August Security Patch
+
+  Legend Settings:-
+  ->Added Configurable Keyguard alpha(change lockscreen alpha color) and Keyguard Bouncer alpha(change lockscreen security alpha color)
+  ->Added Carrier label Customization
+  ->Added Sensor block per-package
+
+  Prebuilt:-
+  ->Switched bootanimation to Pixel OOS
+  ->Added Magisk v13.3
+  ->Added Viper4Arise (Deuteronomy) Removed Viper4Android
+  ->Added Lawnchair and Removed Pixel Launcher
+  ->Added OTA support 
+  ->Updated Gboard to 6.4.16.162469584
+  ->Updated Google Wallpaper to 1.1.153125266
+
+  Buttons Misc:-
+  ->Added Pocket Judge
+  ->Added Accidental Touch
+
+  QS Tiles:-
+  ->Add/Remove QS Tile with one click
+  ->Adb Over Network tile Added
+  ->AmbientDisplay tile Added
+  ->LiveDisplay tile Updated
+  ->Location tile is now default comes with default tiles
+
+  Other Stuff:-
+  ->Improved Dark Theme
+  ->Added About LegendROM Team in about phone
+  ->Added LegendROM Banner
+  ->Pixel-ify Expanded Desktop
+  ->Added Default MTP on plug toggle
+
+  Kernel:-
+  ->Added KCal support
+  ->Added fastcharge
+  </Changelog>
 </ROM>
