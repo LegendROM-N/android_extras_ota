@@ -11,44 +11,33 @@
   <Developer>Pranav Thombare</Developer>
   <WebsiteURL nil="true" />
   <DonateURL>https://paypal.me/PranavThombare</DonateURL>
-  <Changelog>
-  ->Merged Android-7.1.2_r29
-  ->Merged August Security Patch
-
-  Legend Settings:-
-  ->Added Configurable Keyguard alpha(change lockscreen alpha color) and Keyguard Bouncer alpha(change lockscreen security alpha color)
-  ->Added Carrier label Customization
-  ->Added Sensor block per-package
-
-  Prebuilt:-
-  ->Switched bootanimation to Pixel OOS
-  ->Added Magisk v13.3
-  ->Added Viper4Arise (Deuteronomy) Removed Viper4Android
-  ->Added Lawnchair and Removed Pixel Launcher
-  ->Added OTA support 
-  ->Updated Gboard to 6.4.16.162469584
-  ->Updated Google Wallpaper to 1.1.153125266
-
-  Buttons Misc:-
-  ->Added Pocket Judge
-  ->Added Accidental Touch
-
-  QS Tiles:-
-  ->Add/Remove QS Tile with one click
-  ->Adb Over Network tile Added
-  ->AmbientDisplay tile Added
-  ->LiveDisplay tile Updated
-  ->Location tile is now default comes with default tiles
-
-  Other Stuff:-
-  ->Improved Dark Theme
-  ->Added About LegendROM Team in about phone
-  ->Added LegendROM Banner
-  ->Pixel-ify Expanded Desktop
-  ->Added Default MTP on plug toggle
-
-  Kernel:-
-  ->Added KCal support
-  ->Added fastcharge
-  </Changelog>
+  <Changelog>- Merged Android-7.1.2_r29
+- Merged August Security Patch
+- Added Configurable Keyguard alpha(change lockscreen alpha color) and Keyguard Bouncer alpha(change lockscreen security alpha color)
+- Added Carrier label Customization
+- Added Sensor block per-package
+- Added MTP Dirty Hack
+- Switched bootanimation to Pixel OOS
+- Added Magisk v13.3
+- Added Viper4Arise (Deuteronomy) Removed Viper4Android
+- Added Lawnchair and Removed Pixel Launcher
+- Added OTA support 
+- Updated Gboard to 6.4.16.162469584
+- Updated Google Wallpaper to 1.1.153125266
+- Added Pocket Judge
+- Added Accidental Touch
+- Added 1440p camcorder profile
+- Solved FC when taking picture with HDR
+- For Panorama mode use Bacon Camera it works fine
+- Add/Remove QS Tile with one click
+- Adb Over Network tile Added
+- AmbientDisplay tile Added
+- LiveDisplay tile Updated
+- Location tile is now default comes with default tiles
+- Improved Dark Theme
+- Added About LegendROM Team in about phone
+- Added LegendROM Banner
+- Pixel-ify Expanded Desktop
+- Added Hack to watch Youtube videos in 1440p
+- Added Fast charging support</Changelog>
 </ROM>
