@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_oneplus2</RomName>
-  <VersionName>LegendROM-N-v18.0-20170814-oneplus2-Official</VersionName>
-  <VersionNumber type="integer">20170814</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/1jAJkA92fNZXTcdTa0Mg9w/1502949079/961840155545588741/LegendROM-N-v18.0-20170814-oneplus2-Official.zip</DirectUrl>
+  <VersionName>LegendROM-N-v18.0-20170815-oneplus2-Official</VersionName>
+  <VersionNumber type="integer">20170815</VersionNumber>
+  <DirectUrl>https://de1.androidfilehost.com/dl/KgjAT4QFMIHve4Ze11TAaQ/1503042436/961840155545588951/LegendROM-N-v18.0-20170815-oneplus2-Official.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>dbb4d3a01ee4cac1b1560b892d7ee884</CheckMD5>
-  <FileSize type="integer">615199539</FileSize>
+  <CheckMD5>6ecf819174e3e87c929dd9c97d7e3b6c</CheckMD5>
+  <FileSize type="integer">614989824</FileSize>
   <Developer>Pranav Thombare</Developer>
   <WebsiteURL nil="true" />
   <DonateURL>https://paypal.me/PranavThombare</DonateURL>
@@ -37,5 +37,6 @@
 - Added LegendROM Banner
 - Pixel-ify Expanded Desktop
 - Added Hack to watch Youtube videos in 1440p
-- Added Fast charging support</Changelog>
+- Added Fast charging support
+- Enable 2.4Ghz channel bonding</Changelog>
 </ROM>
