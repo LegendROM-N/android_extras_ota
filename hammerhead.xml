@@ -10,15 +10,14 @@
   <FileSize type="integer">471338758</FileSize>
   <Developer>Xaif</Developer>
   <WebsiteURL nil="true" />
-  <DonateURL>http://paypal.me/xaif</DonateURL>
-  <Changelog>- Sultanized
-- Merged Android-7.1.2_r29
+  <DonateURL>https://www.paypal.me/jhalayashraj</DonateURL>
+  <Changelog>- Merged Android-7.1.2_r29
 - Merged August Security Patch
 - Added Configurable Keyguard alpha(change lockscreen alpha color) and Keyguard Bouncer alpha(change lockscreen security alpha color)
 - Added Carrier label Customization
 - Added Sensor block per-package
 - Added MTP Dirty Hack
-- Switched bootanimation to Pixel OOS
+- Switched bootanimation to Official Android Nougat
 - Added Magisk v13.3
 - Added Viper4Arise (Deuteronomy) Removed Viper4Android
 - Added Lawnchair and Removed Pixel Launcher
@@ -38,7 +37,5 @@
 - Improved Dark Theme
 - Added About LegendROM Team in about phone
 - Added LegendROM Banner
-- Pixel-ify Expanded Desktop
-- Added Hack to watch Youtube videos in 1440p
-- Added Fast charging support (You need to change the value from Kernel Adiutor Mod)</Changelog>
+- Pixel-ify Expanded Desktop</Changelog>
 </ROM>
