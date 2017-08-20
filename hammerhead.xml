@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_hammerhead</RomName>
-  <VersionName>LegendROM-N-v18.0-20170817-hammerhead</VersionName>
-  <VersionNumber type="integer">20170817</VersionNumber>
-  <DirectUrl>https://xtremetricks.net/Downloads/LegendROM-N-v18.0-20170817-hammerhead-Official.zip</DirectUrl>
+  <VersionName>LegendROM-N-v18.0-20170820-hammerhead</VersionName>
+  <VersionNumber type="integer">20170820</VersionNumber>
+  <DirectUrl>https://xtremetricks.net/Downloads/LegendROM-N-v18.0-20170820-hammerhead-Official.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
   <CheckMD5>58e5c7505fe81597165626c782643927</CheckMD5>
