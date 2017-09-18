@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>LegendROM_cheeseburger</RomName>
+  <VersionName>LegendROM-N-v18.0-20170918-cheeseburger</VersionName>
+  <VersionNumber type="integer">20170918</VersionNumber>
+  <DirectUrl>http://qc4.androidfilehost.com/dl/5HYJOFwJwzBGYYT7yZIBwg/1505967612/745425885120763383/LegendROM-N-v18.0-20170918-cheeseburger-Official.zip?</DirectUrl>
+  <HttpUrl nil="true" />
+  <Android>7.1.2</Android>
+  <CheckMD5>8133a0a6c3d56d4002ec19e457871f90</CheckMD5>
+  <FileSize type="integer">702126489</FileSize>
+  <Developer>Yashraj Jhala</Developer>
+  <WebsiteURL nil="true" />
+  <DonateURL>https://www.paypal.me/jhalayashraj</DonateURL>
+  <Changelog>->Merged September Security Patch
+->Added Configurable Keyguard alpha(change lockscreen alpha color) and Keyguard Bouncer alpha(change lockscreen security alpha color)
+->Added Carrier label Customization
+->Added Sensor block per-package
+->Added MTP Dirty Hack
+->Added OnePlus Camera and OnePlus Gallery
+->Switched bootanimation to Pixel OOS
+->Added Magisk v14.0
+->Added Viper4Arise (Deuteronomy) Removed Viper4Android
+->Added Lawnchair and Removed Pixel Launcher
+->Added OTA support 
+->Updated Gboard to 6.4.16.162469584
+->Updated Google Wallpaper to 1.1.153125266
+->Added Pocket Judge
+->Added Accidental Touch
+->Add/Remove QS Tile with one click
+->Adb Over Network tile Added
+->AmbientDisplay tile Added
+->LiveDisplay tile Updated
+->Added Night Light Tile
+->Location tile is now default comes with default tiles
+->Added Linaro a73 Optimization
+->Added Boost values from CAF
+->Updated to Latest Lightning Kernel
+->Improved Dark Theme
+->Added About LegendROM Team in about phone
+->Added LegendROM Banner
+->Pixel-ify Expanded Desktop
+->Added VoLTE icon</Changelog>
+</ROM>
