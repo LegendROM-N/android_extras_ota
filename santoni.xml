@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>LegendROM_bacon</RomName>
+  <VersionName>	LegendROM-N-v19.0-20170927-santoni-Final</VersionName>
+  <VersionNumber type="integer">20170927</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/ylQn1ll9RLI6vk-JY-SOyQ/1506728155/962021903579480415/LegendROM-N-v19.0-20170927-santoni-Final.zip?</DirectUrl>
+  <HttpUrl nil="true" />
+  <Android>7.1.2</Android>
+  <CheckMD5>dca07fb96c9e47376dc5a8e8f630643c</CheckMD5>
+  <FileSize type="integer">635540114</FileSize>
+  <Developer>Abhiraj Singh</Developer>
+  <WebsiteURL nil="true" />
+  <DonateURL>https://www.paypal.me/AbhirajSingh</DonateURL>
+  <Changelog>- September Security Patch Merged
+
+Legend Settings:
+- Added toggle to Disable media art on Lockscreen
+- Added toggle to hide alarm, date and clock on Lockscreen
+- Added toggle to hide the Auto brightness icon in brightness slider
+
+Prebuilt:
+- Updated Magisk to 14.0
+- Updated Lawnchair
+
+Other Stuff:
+- Added ColorEngine
+- Added bootup Boost
+- Added Mirror Selfie option in Snap Camera
+- Fixed Navbar back button
+- Removed Inbuilt Dark Theme
+- Synced with Latest Lineage</Changelog>
+</ROM>
