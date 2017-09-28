@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_bacon</RomName>
-  <VersionName>	LegendROM-N-v19.0-20170927-santoni-Final</VersionName>
-  <VersionNumber type="integer">20170927</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/ylQn1ll9RLI6vk-JY-SOyQ/1506728155/962021903579480415/LegendROM-N-v19.0-20170927-santoni-Final.zip?</DirectUrl>
+  <VersionName>	LegendROM-N-v19.0-20170928-santoni-Final</VersionName>
+  <VersionNumber type="integer">20170928</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/YQRCB7f6CF7wKXbKAVbb5A/1506848127/673791459329049353/LegendROM-N-v19.0-20170928-santoni-Final.zip?</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>dca07fb96c9e47376dc5a8e8f630643c</CheckMD5>
-  <FileSize type="integer">635540114</FileSize>
+  <CheckMD5>e21ea60c9c6c102cd86e25a729ead436</CheckMD5>
+  <FileSize type="integer">635511409</FileSize>
   <Developer>Abhiraj Singh</Developer>
   <WebsiteURL nil="true" />
   <DonateURL>https://www.paypal.me/AbhirajSingh</DonateURL>
