@@ -1,43 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_oneplus3-3T</RomName>
-  <VersionName>LegendROM-N-v18.0-20170814-oneplus3-3T</VersionName>
-  <VersionNumber type="integer">20170814</VersionNumber>
-  <DirectUrl>https://de1.androidfilehost.com/dl/Mmnico6dlQC2TOsHhHXyUQ/1502971477/673368273298978706/LegendROM-N-v18.0-20170814-oneplus3-3T-Official.zip?</DirectUrl>
+  <VersionName>LegendROM-N-v19.0-20170927-oneplus3-3T</VersionName>
+  <VersionNumber type="integer">20170927</VersionNumber>
+  <DirectUrl>https://va1.androidfilehost.com/dl/qmpNXc0kq0U5YYS7xMVsqg/1506853883/817906626617934616/LegendROM-N-v19.0-20170927-oneplus3-Final.zip?</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>701bcf6bec1f3e96ade5d86321e88105</CheckMD5>
-  <FileSize type="integer">649592832</FileSize>
+  <CheckMD5>534b2c17621efc6b109bf07f16fd9478</CheckMD5>
+  <FileSize type="integer">650012262</FileSize>
   <Developer>Yashraj Jhala</Developer>
   <WebsiteURL nil="true" />
   <DonateURL>https://www.paypal.me/jhalayashraj</DonateURL>
-  <Changelog>- Sultanized
-- Merged Android-7.1.2_r29
-- Merged August Security Patch
-- Updated blobs from OxygenOS Open Beta 12 and 21
-- Added Configurable Keyguard alpha(change lockscreen alpha color) and Keyguard Bouncer alpha(change lockscreen security alpha color)
-- Added Carrier label Customization
-- Added Sensor block per-package
-- Added MTP Dirty Hack
-- Switched bootanimation to Pixel OOS
-- Added Magisk v13.3
-- Added Viper4Arise (Deuteronomy) Removed Viper4Android
-- Added Lawnchair and Removed Pixel Launcher
-- Added OTA support 
-- Updated Gboard to 6.4.16.162469584
-- Updated Google Wallpaper to 1.1.153125266
-- Added Pocket Judge
-- Added Accidental Touch
-- Add/Remove QS Tile with one click
-- Adb Over Network tile Added
-- AmbientDisplay tile Added
-- LiveDisplay tile Updated
-- Location tile is now default comes with default tiles
-- Improved Dark Theme
-- Added About LegendROM Team in about phone
-- Added LegendROM Banner
-- Added LegendWallpapers 
-- Pixel-ify Expanded Desktop
-- Fixed FC when taking pic from front cam
-- Added VoLTE icon</Changelog>
+  <Changelog>- September Security Patch Merged
+
+Legend Settings:
+- Added toggle to Disable media art on Lockscreen
+- Added toggle to hide alarm, date and clock on Lockscreen
+- Added toggle to hide the Auto brightness icon in brightness slider
+
+Prebuilt:
+- Updated Magisk to 14.0
+- Updated Lawnchair
+
+Other Stuff:
+- Added ColorEngine
+- Added bootup Boost
+- Added Mirror Selfie option in Snap Camera
+- Fixed Navbar back button
+- Removed Inbuilt Dark Theme
+- Synced with Latest Lineage
+- Updated blobs from OxygenOS Open Beta 14 and 23</Changelog>
 </ROM>
