@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>LegendROM_leeco_x3</RomName>
+  <VersionName>LegendROM-N-v19.0-20170928--Official</VersionName>
+  <VersionNumber type="integer">20170929</VersionNumber>
+  <DirectUrl>https://dc1.androidfilehost.com/dl/S0e_AqB5nhEU4ArzGy9JFg/1506893226/889964283620754307/LegendROM-N-v19.0-20170928--Official.zip?</DirectUrl>
+  <HttpUrl nil="true" />
+  <Android>7.1.2</Android>
+  <CheckMD5>1bead8985bdc8b6712dc023083ae3ac6</CheckMD5>
+  <FileSize type="integer">620242174</FileSize>
+  <Developer>VenkatVV</Developer>
+  <WebsiteURL nil="true" />
+  <DonateURL>https://www.paypal.me/jhalayashraj</DonateURL>
+  <Changelog>- September Security Patch Merged
+
+Legend Settings:
+- Added toggle to Disable media art on Lockscreen
+- Added toggle to hide alarm, date and clock on Lockscreen
+- Added toggle to hide the Auto brightness icon in brightness slider
+
+Prebuilt:
+- Updated Magisk to 14.0
+- Updated Lawnchair
+
+Other Stuff:
+- Added ColorEngine
+- Added bootup Boost
+- Added Mirror Selfie option in Snap Camera
+- Fixed Navbar back button
+- Removed Inbuilt Dark Theme
+- Synced with Latest Lineage
+- Updated blobs from OxygenOS Open Beta 14 and 23</Changelog>
+</ROM>
