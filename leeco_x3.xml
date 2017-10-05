@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM</RomName>
-  <VersionName>LegendROM-N-v19.0-20170928--Official</VersionName>
-  <VersionNumber type="integer">20170928</VersionNumber>
-  <DirectUrl>https://dc1.androidfilehost.com/dl/S0e_AqB5nhEU4ArzGy9JFg/1506893226/889964283620754307/LegendROM-N-v19.0-20170928--Official.zip?</DirectUrl>
+  <VersionName>LegendROM-N-v19.0-20171004--Official</VersionName>
+  <VersionNumber type="integer">20171004</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/9lNrauPB9Sh6zXbQqBqv0A/1507443184/889964283620756048/LegendROM-N-v19.0-20171004--Official.zip?</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>1bead8985bdc8b6712dc023083ae3ac6</CheckMD5>
-  <FileSize type="integer">620242174</FileSize>
+  <CheckMD5>9fc947f1fb51145da8a99de9871541d0</CheckMD5>
+  <FileSize type="integer">528878729</FileSize>
   <Developer>VenkatVV</Developer>
   <WebsiteURL nil="true" />
   <DonateURL>https://www.paypal.me/VenkatVV</DonateURL>
   <Changelog>- September Security Patch Merged
 
+Bug Fixes:
+- Fixed Stock Browser Crashing.
+- Fixed SafetyNet.
+- Performance and Battery Improvements
+    
 Legend Settings:
 - Added toggle to Disable media art on Lockscreen
 - Added toggle to hide alarm, date and clock on Lockscreen
