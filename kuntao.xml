@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM</RomName>
-  <VersionName>LegendROM-N-v19.0-20171012-kuntao-Official.zip</VersionName>
-  <VersionNumber type="integer">20171012</VersionNumber>
-  <DirectUrl>https://dc3.androidfilehost.com/dl/PAXqiqWBUrbRicvGGzxb0w/1508469273/889964283620757714/LegendROM-N-v19.0-20171012-kuntao-Official.zip</DirectUrl>
+  <VersionName>LegendROM-N-v19.0-20171017-kuntao-Official.zip</VersionName>
+  <VersionNumber type="integer">20171017</VersionNumber>
+  <DirectUrl>https://ca2.androidfilehost.com/dl/j9rt0QztM7qVcHDJFNl4KQ/1508483469/962021903579485747/LegendROM-N-v19.0-20171017-kuntao-Official.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>9f4aafa9e4f80449ba0d1a28d1412441</CheckMD5>
+  <CheckMD5>36abff5c069f63abdc8518712a0fb910</CheckMD5>
   <FileSize type="integer">638268211</FileSize>
   <Developer>Abhay Ruparel</Developer>
   <WebsiteURL nil="true" />
+    <Changelog>
+Legend Settings:
+- Added toggle to Disable media art on Lockscreen
+- Added toggle to hide alarm, date and clock on Lockscreen
+- Added toggle to hide the Auto brightness icon in brightness slider
+- Lock screen charging values      
+
+Prebuilt:
+- Updated Magisk to 14.0
+- Updated Lawnchair
+
+Other Stuff:
+- Enabled SD Clang      
+- Added ColorEngine
+- Added bootup Boost
+- Added Mirror Selfie option in Snap Camera
+- Fixed Navbar back button
+- Removed Inbuilt Dark Theme
+- Synced with Latest Lineage</Changelog>
  </ROM>
