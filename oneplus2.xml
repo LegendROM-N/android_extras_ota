@@ -1,42 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_oneplus2</RomName>
-  <VersionName>LegendROM-N-v18.0-20170815-oneplus2-Official</VersionName>
-  <VersionNumber type="integer">20170815</VersionNumber>
-  <DirectUrl>https://de1.androidfilehost.com/dl/KgjAT4QFMIHve4Ze11TAaQ/1503042436/961840155545588951/LegendROM-N-v18.0-20170815-oneplus2-Official.zip</DirectUrl>
+  <VersionName>LegendROM-N-v19.0-20171018-oneplus2-Final.zip</VersionName>
+  <VersionNumber type="integer">20171018</VersionNumber>
+  <DirectUrl>https://nl2.androidfilehost.com/dl/QbtNn1FpFuhLV3SSfG0evg/1508635576/962021903579486110/LegendROM-N-v19.0-20171018-oneplus2-Final.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>6ecf819174e3e87c929dd9c97d7e3b6c</CheckMD5>
-  <FileSize type="integer">614989824</FileSize>
+  <CheckMD5>f27330b249649ba057f96e25b433795c</CheckMD5>
+  <FileSize type="integer">615618970</FileSize>
   <Developer>Pranav Thombare</Developer>
   <WebsiteURL nil="true" />
   <DonateURL>https://paypal.me/PranavThombare</DonateURL>
-  <Changelog>- Merged Android-7.1.2_r29
-- Merged August Security Patch
-- Added Configurable Keyguard alpha(change lockscreen alpha color) and Keyguard Bouncer alpha(change lockscreen security alpha color)
-- Added Carrier label Customization
-- Added Sensor block per-package
-- Added MTP Dirty Hack
-- Switched bootanimation to Pixel OOS
-- Added Magisk v13.3
-- Added Viper4Arise (Deuteronomy) Removed Viper4Android
-- Added Lawnchair and Removed Pixel Launcher
-- Added OTA support 
-- Updated Gboard to 6.4.16.162469584
-- Updated Google Wallpaper to 1.1.153125266
-- Added Pocket Judge
-- Added Accidental Touch
-- For Panorama mode use Bacon Camera it works fine
-- Add/Remove QS Tile with one click
-- Adb Over Network tile Added
-- AmbientDisplay tile Added
-- LiveDisplay tile Updated
-- Location tile is now default comes with default tiles
-- Improved Dark Theme
-- Added About LegendROM Team in about phone
-- Added LegendROM Banner
-- Pixel-ify Expanded Desktop
-- Added Hack to watch Youtube videos in 1440p
-- Added Fast charging support
-- Enable 2.4Ghz channel bonding</Changelog>
+  <Changelog>-October security patch merged
+-KRACK vulnerability patches added from lineage
+    
+Legend Settings:
+- Added toggle to Disable media art on Lockscreen
+- Added toggle to hide alarm, date and clock on Lockscreen
+- Added toggle to hide the Auto brightness icon in brightness slider
+    
+Prebuilt:
+- Updated Magisk to 14.0
+- Updated Lawnchair
+    
+Other Stuff:
+- Added ColorEngine
+- Added bootup Boost
+- Added Mirror Selfie option in Snap Camera
+- Fixed Navbar back button
+- Removed Inbuilt Dark Theme
+- Synced with Latest Lineage
+    
+Kernel:
+-Made changes in adreno_idler
+-Improved charging speed</Changelog>
 </ROM>
