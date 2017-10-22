@@ -11,7 +11,8 @@
   <Developer>Abhay Ruparel</Developer>
   <WebsiteURL nil="true" />
     <Changelog>
-- Switched to ENFORCING SElinux      
+- Switched to ENFORCING SElinux
+- Improved Network stability      
 - KRACK vulnerability patches Merged
 - Updated Lawnchair
 - Synced with Latest Lineage</Changelog>
