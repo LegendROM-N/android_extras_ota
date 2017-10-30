@@ -2,11 +2,11 @@
 <ROM>
   <RomName>LegendROM_mido</RomName>
   <VersionName>LegendROM-N-v19.0-20171029-mido</VersionName>
-  <VersionNumber type="integer">20171029</VersionNumber>
+  <VersionNumber type="integer">20171028</VersionNumber>
   <DirectUrl>https://qc3.androidfilehost.com/dl/VgzgQaTEa7BFU-RkCl-tIA/1509613166/817906626617942842/LegendROM-N-v19.0-20171029-mido-Final.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>efb4d0c57d7e9ce3405aa2c7b5effcc1</CheckMD5>
+  <CheckMD5>381709b4c9ac28dc4b47729d8d4da51e</CheckMD5>
   <FileSize type="integer">679791820</FileSize>
   <Developer>Arjun Sunil</Developer>  
   <WebsiteURL nil="true" />
