@@ -12,7 +12,9 @@
   <WebsiteURL nil="true" />
     <Changelog>
 * Fixed dt2w
-
+      
+*Merged caf tag LA.UM.5.6.r1-06100-89xx.0 in kernel
+      
 * Fixed glove mode
 
 * Fixed LEDs (thx mikeng)
@@ -24,4 +26,5 @@
 * Added color mode
       
 * Synced with Latest Lineage</Changelog>
- </ROM>
+
+</ROM>
