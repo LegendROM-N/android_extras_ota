@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM</RomName>
-  <VersionName>LegendROM-N-v19.0-20171021-kuntao-Official.zip</VersionName>
-  <VersionNumber type="integer">20171021</VersionNumber>
-  <DirectUrl>https://ca2.androidfilehost.com/dl/yp4FVwR_bTBOUng8UNdRhg/1508913471/817906626617940951/LegendROM-N-v19.0-20171021-kuntao-Official.zip</DirectUrl>
+  <VersionName>LegendROM-N-v19.0-20171105-kuntao-Official.zip</VersionName>
+  <VersionNumber type="integer">20171105</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/dr0_qXeigUB3p_8_IifRXA/1510113395/889964283620763764/LegendROM-N-v19.0-20171105-kuntao-Official.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>2fba26293330f98bdf6cf5d61b4192f8</CheckMD5>
+  <CheckMD5>b45f95a2dc3782b91974df9ba26f9a1e</CheckMD5>
   <FileSize type="integer">668991488</FileSize>
   <Developer>Abhay Ruparel</Developer>
   <WebsiteURL nil="true" />
     <Changelog>
-- Switched to ENFORCING SElinux
-- Improved Network stability      
-- KRACK vulnerability patches Merged
-- Updated Lawnchair
-- Synced with Latest Lineage</Changelog>
+* Fixed dt2w
+
+* Fixed glove mode
+
+* Fixed LEDs (thx mikeng)
+
+* Switched to oss audio hal (thx to highwaystar)
+
+* Added burn-in protection
+
+* Added color mode
+      
+* Synced with Latest Lineage</Changelog>
  </ROM>
