@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_land</RomName>
-  <VersionName>LegendROM-N-v19.0-20171029-land</VersionName>
-  <VersionNumber type="integer">20171029</VersionNumber>
-  <DirectUrl>https://de1.androidfilehost.com/dl/3qNCLPOOdXfk528I96WiSw/1509580338/817906626617942636/LegendROM-N-v19.0-20171029-land-Official.zip</DirectUrl>
-  <CheckMD5>09dc49bc2ade13210871d3323523bffe</CheckMD5>
+  <VersionName>LegendROM-N-v19.0-20171110-land</VersionName>
+  <VersionNumber type="integer">20171110</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/PEux-WluGiSK0BPhZPwrzg/1510645841/673791459329060257/LegendROM-N-v19.0-20171110-land-Official.zip</DirectUrl>
+  <CheckMD5>d0e5d9e2808d96dad0cbad3d711ac383</CheckMD5>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <FileSize type="integer">719952282</FileSize>
+  <FileSize type="integer">679936</FileSize>
   <Developer>Akshat Sinha</Developer>
   <WebsiteURL nil="true" />
-   <Changelog>- October Security Patch Merged
-- KRACK vulnerability patches Merged
-- Updated Magisk to 14.0
-- Updated Lawnchair
+   <Changelog>
+ -Update kernel to .80
+ -Fix Battery Drain   
   </Changelog>
   </ROM>
   
