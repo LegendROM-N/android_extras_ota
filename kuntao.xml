@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM</RomName>
-  <VersionName>LegendROM-N-v19.0-20171105-kuntao-Official.zip</VersionName>
-  <VersionNumber type="integer">20171105</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/dr0_qXeigUB3p_8_IifRXA/1510113395/889964283620763764/LegendROM-N-v19.0-20171105-kuntao-Official.zip</DirectUrl>
+  <VersionName>LegendROM-N-v19.0-20171127-kuntao-Official.zip</VersionName>
+  <VersionNumber type="integer">20171127</VersionNumber>
+  <DirectUrl>https://de1.androidfilehost.com/dl/mDizTcdewWg6Zgz4KOHWcw/1512073945/889964283620768825/LegendROM-N-v19.0-20171127-kuntao-Official.zip</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>b45f95a2dc3782b91974df9ba26f9a1e</CheckMD5>
-  <FileSize type="integer">668991488</FileSize>
+  <CheckMD5>10b29159180a58533735e360e35d3821</CheckMD5>
+  <FileSize type="integer">638582784</FileSize>
   <Developer>Abhay Ruparel</Developer>
   <WebsiteURL nil="true" />
     <Changelog>
-* Fixed dt2w
-      
-*Merged caf tag LA.UM.5.6.r1-06100-89xx.0 in kernel
-      
-* Fixed glove mode
-
-* Fixed LEDs (thx mikeng)
-
-* Switched to oss audio hal (thx to highwaystar)
-
-* Added burn-in protection
-
-* Added color mode
-      
+* update prime (wifi driver) to LA.UM.5.6.r1-06200-89xx.0
+* Fixed fp gestures thx highwaystar
+* Reverted to stock audio hal for now oss is little unstable
+* google assistant is triggered when homebutton is pressed twice instead of long press
 * Synced with Latest Lineage</Changelog>
 
 </ROM>
