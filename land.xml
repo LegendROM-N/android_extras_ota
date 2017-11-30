@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM_land</RomName>
-  <VersionName>LegendROM-N-v19.0-20171110-land</VersionName>
-  <VersionNumber type="integer">20171110</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/PEux-WluGiSK0BPhZPwrzg/1510645841/673791459329060257/LegendROM-N-v19.0-20171110-land-Official.zip</DirectUrl>
-  <CheckMD5>d0e5d9e2808d96dad0cbad3d711ac383</CheckMD5>
+  <VersionName>LegendROM-N-v19.0-20171129-land</VersionName>
+  <VersionNumber type="integer">20171129</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/THGrcNbeU7d2zQ-kAbC9Ow/1512275559/673791459329064482/LegendROM-N-v19.0-20171129-land.zipzip</DirectURL>
+  <CheckMD5>077089af4d1b8a2681d735ba3838b291</CheckMD5>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
   <FileSize type="integer">679936</FileSize>
   <Developer>Akshat Sinha</Developer>
   <WebsiteURL nil="true" />
    <Changelog>
- -Update kernel to .80
- -Fix Battery Drain   
-  </Changelog>
+ -Update kernel to .84
+ -November Security Patch
+ -Fix Goodix FP</Changelog>  
+
   </ROM>
   
 
