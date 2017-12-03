@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>LegendROM_leeco_x3</RomName>
+  <RomName>LegendROM</RomName>
   <VersionName>LegendROM-N-v19.0-20171202</VersionName>
   <VersionNumber type="integer">20171202</VersionNumber>
   <DirectUrl>https://qc3.androidfilehost.com/dl/K28INmGMNzrSbo16jjl2LQ/1512538586/962021903579496230/LegendROM-N-v19.0-20171202--Official.zip?</DirectUrl>
@@ -10,7 +10,7 @@
   <FileSize type="integer">525128416</FileSize>
   <Developer>VenkatVV</Developer>
   <WebsiteURL nil="true" />
-  <DonateURL>https://www.paypal.me/jhalayashraj</DonateURL>
+  <DonateURL>https://www.paypal.me/VenkatVV</DonateURL>
   <Changelog>- November Security Patch Merged
 
 Device Changelog:
