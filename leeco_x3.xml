@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>LegendROM</RomName>
-  <VersionName>LegendROM-N-v19.0-20171004--Official</VersionName>
-  <VersionNumber type="integer">20170928</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/9lNrauPB9Sh6zXbQqBqv0A/1507443184/889964283620756048/LegendROM-N-v19.0-20171004--Official.zip?</DirectUrl>
+  <RomName>LegendROM_leeco_x3</RomName>
+  <VersionName>LegendROM-N-v19.0-20171202</VersionName>
+  <VersionNumber type="integer">20171202</VersionNumber>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/K28INmGMNzrSbo16jjl2LQ/1512538586/962021903579496230/LegendROM-N-v19.0-20171202--Official.zip?</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>9fc947f1fb51145da8a99de9871541d0</CheckMD5>
-  <FileSize type="integer">528878729</FileSize>
+  <CheckMD5>b0a767104b6e9ae39955bf74328fddd2</CheckMD5>
+  <FileSize type="integer">525128416</FileSize>
   <Developer>VenkatVV</Developer>
   <WebsiteURL nil="true" />
-  <DonateURL>https://www.paypal.me/VenkatVV</DonateURL>
-  <Changelog>- September Security Patch Merged
+  <DonateURL>https://www.paypal.me/jhalayashraj</DonateURL>
+  <Changelog>- November Security Patch Merged
 
-Bug Fixes:
-- Fixed Stock Browser Crashing.
-- Fixed SafetyNet.
-- Performance and Battery Improvements
-    
+Device Changelog:
+Upstreamed Kernel to 3.10.108
+Camera Crashes Fixed!(Almost 99%) Stable now  
+Added Footejcamera with slowmotion and burst mode options.
+Few tweaks and improvements for better battery and  performance.
+  
 Legend Settings:
 - Added toggle to Disable media art on Lockscreen
 - Added toggle to hide alarm, date and clock on Lockscreen
