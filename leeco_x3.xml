@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>LegendROM</RomName>
-  <VersionName>LegendROM-N-v19.0-20171202</VersionName>
-  <VersionNumber type="integer">20171202</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/K28INmGMNzrSbo16jjl2LQ/1512538586/962021903579496230/LegendROM-N-v19.0-20171202--Official.zip?</DirectUrl>
+  <VersionName>LegendROM-N-v19.0-20180107</VersionName>
+  <VersionNumber type="integer">20170928</VersionNumber>
+  <DirectUrl>https://qc0.uploads.androidfilehost.com/dl/yDkLlm9XrZHUW1A3M07Q-Q/1515557370/889964283620776703/LegendROM-N-v19.0-20180107--Official.zip?</DirectUrl>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <CheckMD5>b0a767104b6e9ae39955bf74328fddd2</CheckMD5>
-  <FileSize type="integer">525128416</FileSize>
+  <CheckMD5>de97056532ca93f127503bcd410cc082</CheckMD5>
+  <FileSize type="integer">617742602</FileSize>
   <Developer>VenkatVV</Developer>
   <WebsiteURL nil="true" />
   <DonateURL>https://www.paypal.me/VenkatVV</DonateURL>
-  <Changelog>- November Security Patch Merged
+  <Changelog>- January Security Patch Merged
 
 Device Changelog:
-Upstreamed Kernel to 3.10.108
-Camera Crashes Fixed!(Almost 99%) Stable now  
-Added Footejcamera with slowmotion and burst mode options
-Few tweaks and improvements for better battery and  performance
+Merged Latest January Security Patch
+HDR and Low Light Camera Bugs aree fixed now
+No camera Crashes now(Camera now is 100% stable)
+Added footej back for slowmo and burst pictures
 SafetyNet Fixed!
   
 Legend Settings:
